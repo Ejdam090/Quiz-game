@@ -1,0 +1,30 @@
+.startBtn {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 300px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: var(--gradient);
+  color: #fff;
+  border: 1px solid #7855b1;
+  padding: 10px 20px;
+}
+.startBtn:hover {
+  background: var(--gradient_hover);
+}
+.startBtn:active {
+  transform: translateY(4px);
+}
+.startBtn p {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+}
+.arrow-img {
+  width: 80px;
+}
+@media only screen and (max-width: 310px) {
+  .startBtn {
+    width: 200px;
+  }
+}

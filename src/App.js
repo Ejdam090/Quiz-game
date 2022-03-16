@@ -1,24 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import "./App.css";
+import styled from "styled-components";
+import backimg from './assets/background_new.jpg';
+import HomePage from "./Pages/HomePage";
+import Technology from "./Pages/Technology";
+import History from './Pages/History';
+import Motorization from './Pages/Moto';
+import Culture from './Pages/Culture';
+
+
+const Container = styled.div`
+  padding: 0;
+  margin:0;
+  width: 100wv;
+  height: 100vh;
+  background: url(${backimg}) no-repeat ;
+  background-size: 100% 100%;
+  margin: 0 auto;
+  
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <Router basename={process.env.PUBLIC_URL}>
+        <Routes>
+          <Route path='/' exact element={<HomePage / >} />
+          <Route path='/Technology'  element={<Technology / >} />
+          <Route path='/History'  element={<History / >} />
+          <Route path='/Moto'  element={<Motorization / >} />
+          <Route path='/Culture'  element={<Culture / >} />
+        </Routes>
+      </Router>
+    </Container>
   );
 }
 

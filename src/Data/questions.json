@@ -1,0 +1,213 @@
+{
+    "history": [
+        {
+            "question": "W którym roku rozpoczęła się Wojna Stuletnia?",
+            "choices": ["1300", "1337","1388","1405"],
+            "answer": "1337" 
+        },
+        {
+            "question": "W którym roku wojska Układu Warszawskiego wkroczyły do Czechosłowacji?",
+            "choices": ["1960", "1968","1970","1978"],
+            "answer": "1968" 
+        },
+        {
+            "question": "W którym z państw w latach 1918-1919 miała miejsce Rewolucja Listopadowa?",
+            "choices": ["Norwegia", "Polska","Włochy","Niemcy"],
+            "answer": "Niemcy" 
+        }
+        ,
+        {
+            "question": "Kto założył kościół anglikański?",
+            "choices": ["król Edward V", "król Jerzy V","król Karol I","król Henryk VIII"],
+            "answer": "król Henryk VIII" 
+        },
+        {
+            "question": "W którym roku podczas II wojny światowej rozegrała się Bitwa o Anglię?",
+            "choices": ["1939", "1941","1940","1945"],
+            "answer": "1940" 
+        }
+        ,
+        {
+            "question": "Przedstawicielem jakiej dynastii był Zygmunt August?",
+            "choices": ["Piastów", "Andegawenów","Wazów","Jagiellonów"],
+            "answer": "Jagiellonów" 
+        }
+        ,
+        {
+            "question": "Czy Bohdan Zenobi Chmielnicki w powstaniu, które wybuchło w 1648 r., walczył po stronie Rzeczypospolitej?",
+            "choices": ["tak", "nie","domyśl się","nie wiem"],
+            "answer": "nie" 
+        }
+        ,
+        {
+            "question": "Bohaterem którego konfliktu zbrojnego był Rotmistrz Witold Pilecki?",
+            "choices": ["powstania styczniowego", "I wojny światowej","II wojny światowej","powstania listopadowego"],
+            "answer": "II wojny światowej" 
+        }
+        ,
+        {
+            "question": "Czy pierwsza polska konstytucja została uchwalona w dniu parzystym?",
+            "choices": ["tak", "może tak być","nie wiem","nie"],
+            "answer": "nie" 
+        }
+        
+    ],
+    "culture": [
+        {
+            "question": "Skąd pochodził Wit Stwosz, twórca słynnego ołtarza ze sceną Zaśnięcia NMP z kościoła Mariackiego?:",
+            "choices": ["z Holandii", "z Niemiec","z Polski","z Danii"],
+            "answer": "z Niemiec" 
+        },
+        {
+            "question": "Pierwowzorem Pana Młodego w dramacie „Wesele” Stanisława Wyspiańskiego był:",
+            "choices": ["Stanisław Przybyszewski", "Lucjan Rydel","Kazimierz Przerwa-Tetmajer","Jan Kasprowicz"],
+            "answer": "Lucjan Rydel" 
+        },
+        {
+            "question": "Krzysztof Warlikowski, Krystian Lupa i Grzegorz Jarzyna to znani reżyserzy:",
+            "choices": ["Filmowi", "Teatralni","Nie są znani","Uliczni"],
+            "answer": "Teatralni" 
+        },
+        {
+            "question": "„Dezyderata” to utwór Maxa Ehrmanna. Jego słowa stały się hymnem znanego i cenionego krakowskiego kabaretu literackiego. O który kabaret chodzi?",
+            "choices": ["Piwnica pod Baranami", "Jama Michalika","Piwnica pod Wyrwigroszem","Loch Camelot"],
+            "answer": "Piwnica pod Baranami" 
+        }
+        ,
+        {
+            "question": "To jedno z najsłynniejszych polskich powiedzeń literackich pochodzące ze zbioru zabawnych, często pikantnych, wierszyków „Słówka”. Kto jest autorem tego zbioru?",
+            "choices": ["Julian Tuwim", "Konstanty Idefons Gałczyński","Tadeusz Boy-Żeleński","Adam Mickiewicz"],
+            "answer": "Tadeusz Boy-Żeleński" 
+        },
+        {
+            "question": "W którym filmie Andrzeja Wajdy NIE zagrał Zbigniew Cybulski?",
+            "choices": ["Popiół i diament","Pokolenie","Popioły","Diamenty"],
+            "answer": "Popioły" 
+        },
+        {
+            "question": "Obraz „Patrol powstańczy” został namalowany na płótnie w 1873 roku przez  Maksymiliana Gierymskiego. Którego powstania dotyczy to dzieło?",
+            "choices": ["Styczniowego","Listopadowego","Warszawskiego","Grudniowego"],
+            "answer": "Styczniowego" 
+        },
+        {
+            "question": "Ten późnorenesansowy zamek nazywany jest także Małym Wawelem. To zamek w:",
+            "choices": ["Baranowie Sandomierskim"," Krasiczynie","Książu","Krakowie"],
+            "answer": "Baranowie Sandomierskim" 
+        },
+        {
+            "question": "Kim był Witold Gruca?",
+            "choices": ["Aktorem","Pisarzem","Tancerzem i choreografem","Dyrygentem"],
+            "answer": "Tancerzem i choreografem" 
+        },
+        {
+            "question": "„W świecie hałasu i szybko biegnącego czasu, pragniemy zatrzymać się na chwilę i zadać sobie parę ważnych pytań dotyczących Boga, miłości, samotności.” Tak napisała ta skromna, wybitna aktorka i wspaniała wokalistka, wydając płytę zatytułowaną „Atramentowa”. Jak brzmi jej nazwisko?",
+            "choices": ["Stanisława Celińska","Krystyna Tkacz","Krystyna Janda","Olga Bończyk"],
+            "answer": "Stanisława Celińska" 
+        }
+    ],
+    "technology": [
+        {
+            "question": "Jakie jest tłumaczenie nazwy Samsung?",
+            "choices": ["Trzy gwiazdy","Niebo","Dwie Planety","Piekło"],
+            "answer": "Trzy gwiazdy" 
+        },
+        {
+            "question": "Która wersja sprawiła, że Android stał się najpopularniejszym systemem?",
+            "choices": ["Ice Cream"," KitKat","Jelly Bean","Marshmallow"],
+            "answer": "Jelly Bean" 
+        },
+        {
+            "question": "Co zaczęła na początku robić firma Android Inc.?",
+            "choices": ["System operacyjny na smartfony","System na aparaty fotograficzne","System na MP3,","System Komputerowy"],
+            "answer": "System na aparaty fotograficzne" 
+        },
+        {
+            "question": "Ile rdzeni posiada Moto G 3rd Generation?",
+            "choices": ["4","3","6","2"],
+            "answer": "4" 
+        },
+        {
+            "question": "Kiedy odbył się pierwszy pokaz Windowsa 10?",
+            "choices": ["Październik 2014"," Lipiec 2015"," Styczeń 2015","Grudzień 2014"],
+            "answer": "Październik 2014" 
+        },
+        {
+            "question": "Ile użytkowników posiada Cyanogenmod?",
+            "choices": ["700 tysięcy"," 920 tysięcy","50 Milionów","1 milion"],
+            "answer": "50 Milionów" 
+        },
+        {
+            "question": "Czy Note 4 posiada procesor Snapdragon?",
+            "choices": ["Tak","Nie","Nie, posiada Exynos","Zależy w jakiej wersji"],
+            "answer": "Zależy w jakiej wersji" 
+        },
+        {
+            "question": "Czy możliwy jest debranding smartfona bez rootowania?",
+            "choices": ["Tak","Nie","Tylko w Samsungach","Tylko w Iphone"],
+            "answer": "Tak" 
+        },
+        {
+            "question": "Jak nazywa się najnowsza wersja systemu Android?",
+            "choices": ["Android 6.0 Muffin","Android 5.3 M&M's","Android 6.0 Marshmalow","Android KitKat"],
+            "answer": "Android 6.0 Marshmalow" 
+        },
+        {
+            "question": "Coroczne targi multimediów i nowoczesnych technologii CeBit odbywają się w:",
+            "choices": ["Genewie","Paryżu","Hanowerze","Warszawie"],
+            "answer": "Hanowerze" 
+        }
+    ],
+    "moto": [
+        {
+            "question": "Co oznacza skrót ABS?",
+            "choices": ["Absolutny Brak szczęścia","Anti-Bieber System","Active Brake System","Anti-lock Braking System"],
+            "answer": "Anti-lock Braking System" 
+        },
+        {
+            "question": "Co oznacza skrót TDI?",
+            "choices": ["Turbo Diesel Intercooler","Turbo Diesel Intense","Turbo Doładowanie Inteligentne"," Turbo Direct Injection"],
+            "answer": "Turbo Direct Injection" 
+        },
+        {
+            "question": "Co oznacza skrót ESP?",
+            "choices": ["Electronic System of Parking","Electronic Stability Program","Elektroniczna Stabilizacja Pojazdu","Elektronicznie Sprawne Parkowanie"],
+            "answer": "Electronic Stability Program" 
+        },
+        {
+            "question": "Co oznacza skrót GTI?",
+            "choices": ["Góra Turbo Idzie","Grand Twin Intercooler","Grand Tourer Ijection","Grand Turbo Indicatior"],
+            "answer": "Grand Tourer Ijection" 
+        },
+        {
+            "question": "W którym roku po raz pierwszy zaprezentowano w Polsce Fiata 126p?",
+            "choices": ["1973","1972","1974","1971"],
+            "answer": "1971" 
+        },
+        {
+            "question": "Jaką Pojemność posiadały pierwsze silniki Fiata 126p?",
+            "choices": ["594","652","600","694"],
+            "answer": "594" 
+        },
+        {
+            "question": "Która z tych potocznych nazw nigdy nie była w użyciu w odniesieniu do Fiata 126p?",
+            "choices": ["Maluch","Mały Fiat","Kaszlak","Bambino"],
+            "answer": "Bambino" 
+        },
+        {
+            "question": "Rozszyfruj skrót FSM:",
+            "choices": ["Fabryka Samochodów Miejskich","Fabryka Samochodów Małych","Fabryka Samochodów Małolitrażowych","Fabryka Samolotów Miejkich"],
+            "answer": "Fabryka Samochodów Małolitrażowych" 
+        },
+        {
+            "question": "Karoseria Citroena DS została zaprojektowana przez:",
+            "choices": ["Flaminio Bertoniego","Giorgetto Giugaro","Giovanni Battistę Pinin Farinę","Nuccio Bertone"],
+            "answer": "Flaminio Bertoniego" 
+        },
+        {
+            "question": "Odmiana dostawcza Seata Ibiza II generacji nosiła nazwę:",
+            "choices": ["Cordoba Vario","Inca","Cordoba","Ibiza"],
+            "answer": "Inca" 
+        }
+
+    ]
+}
