@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Quiz-game/static/css/main.f12cc09e.css",
+    "main.js": "/Quiz-game/static/js/main.2db23a98.js",
+    "static/js/787.83904489.chunk.js": "/Quiz-game/static/js/787.83904489.chunk.js",
+    "static/media/background_new.jpg": "/Quiz-game/static/media/background_new.1d9496619326f3cf14b8.jpg",
+    "static/media/button_strzałka_plus.svg": "/Quiz-game/static/media/button_strzałka_plus.9d6668271524c704a38d7b55cbae7eb3.svg",
+    "static/media/technologia_ikona.svg": "/Quiz-game/static/media/technologia_ikona.c872fa6f5f1b8022694a2c16ace4bf82.svg",
+    "static/media/historia_ikona.svg": "/Quiz-game/static/media/historia_ikona.a29b5ad1826a297abe59430ef3a144d5.svg",
+    "static/media/kultura_ikona.svg": "/Quiz-game/static/media/kultura_ikona.a8ac4ce2c953cd1198c9d716525f3319.svg",
+    "static/media/motoryzacja_ikona.svg": "/Quiz-game/static/media/motoryzacja_ikona.abf624077e1aee5476a386707a469712.svg",
+    "static/media/zamknij_x.svg": "/Quiz-game/static/media/zamknij_x.4d78ec95dee76bf7a42f722f18bd9e38.svg",
+    "index.html": "/Quiz-game/index.html",
+    "main.f12cc09e.css.map": "/Quiz-game/static/css/main.f12cc09e.css.map",
+    "main.2db23a98.js.map": "/Quiz-game/static/js/main.2db23a98.js.map",
+    "787.83904489.chunk.js.map": "/Quiz-game/static/js/787.83904489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12cc09e.css",
+    "static/js/main.2db23a98.js"
+  ]
+}
