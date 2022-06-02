@@ -7,7 +7,7 @@ An app quiz-game. Choose your category and answer the question. On finish page, 
 - Styled components
 - JavaScript
 - Css
-- Responsive design
+- RWD
 # Play live
 https://ejdam090.github.io/Quiz-game/
 
